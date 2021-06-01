@@ -3,5 +3,5 @@ This is my GitHub page repository. Here, you'll find the worst website in the hi
 
 **Things in the website:**
   - [x] HTML
-  - [ ] CSS
+  - [X] CSS
   - [ ] JavaScript
