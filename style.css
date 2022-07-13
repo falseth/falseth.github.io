@@ -3,7 +3,13 @@ body {
 	background-color: navy;
 }
 
-#apple {
+img {
 	border: 5px solid white;
 	background-color: #AAAAAA;
+	width: 600px;
+	height: auto;
+}
+
+#parent {
+	text-align: center;
 }
